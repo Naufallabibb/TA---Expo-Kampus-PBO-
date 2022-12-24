@@ -6,7 +6,6 @@ public class Main {
         //deklarasi object expo
         Expo expo = new Expo("Ahmad Dahlan Education Expo (ADEE)","Memamerkan dan Memperkenalkan Universitas Impian",
                 "Search Your Chance And Choose The Next Step","20 - 21 Desember 2022","Lapangan Kampus 4 Universitas Ahmad Dahlan");
-
         //deklarasi object panitia
         Panitia panitia = new Panitia("Muhammad Naufal Labib Ramadhan","Universitas Ahmad Dahlan","68");
 
