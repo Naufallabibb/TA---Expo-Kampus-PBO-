@@ -47,7 +47,7 @@ public class Main {
 
         //deklarasi object sekolah
         ArrayList<Sekolah> SekolahList = new ArrayList<>();
-        SekolahList.add(new Sekolah("ok","ok","ok"));
+        SekolahList.add(new Sekolah("SMA Negeri 1 Teladan Yogyakarta","ok","ok"));
 
         //deklarasi object peserta
         ArrayList<Peserta> PesertaList = new ArrayList<>();
