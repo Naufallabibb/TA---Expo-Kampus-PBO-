@@ -47,7 +47,22 @@ public class Main {
 
         //deklarasi object sekolah
         ArrayList<Sekolah> SekolahList = new ArrayList<>();
-        SekolahList.add(new Sekolah("SMA Negeri 1 Teladan Yogyakarta","ok","ok"));
+        SekolahList.add(new Sekolah("SMA Negeri 1 Teladan Yogyakarta","Jumadi","Jl. HOS Cokroaminoto No.10, Pakuncen, Wirobrajan, Yogyakarta, DIY"));
+        SekolahList.add(new Sekolah("SMA Negeri 3 Yogyakarta","Kusworo, S.Pd., M.Hum","Jl. Yos Sudarso No.7, RT.05/RW.03, Kotabaru, Gondokusuman, Yogyakarta, DIY"));
+        SekolahList.add(new Sekolah("SMA Negeri 5 Yogyakarta","Hj.Fadiyah Suryani, M.Pd.Si","Jl. Nyi Pembayun No.39, Prenggan, Kotagede, Yogyakarta, DIY"));
+        SekolahList.add(new Sekolah("SMA Negeri 6 Yogyakarta","Siti Hajarwati, M.Pd.Si.","Jl. C. Simanjuntak No.2, Terban, Gondokusuman, Yogyakarta, DIY"));
+        SekolahList.add(new Sekolah("SMA Negeri 7 Yogyakarta","Tutik Sunarti, S.Pd., M.Pd.","Jl. MT. Haryono No.47, Suryodiningratan, Mantrijeron, Yogyakarta, DIY"));
+        SekolahList.add(new Sekolah("SMA Negeri 8 Yogyakarta", "Sri Suyatmi, S. Pd.","Jl. Sidobali No.1, Muja Muju, Umbulharjo, Yogyakarta, DIY"));
+        SekolahList.add(new Sekolah("MAN 1 Yogyakarta","Drs. H. Wiranto Prasetyahadi, M.Pd","Jl. C. Simanjuntak No.60, Terban, Gondokusuman, Yogyakarta, DIY"));
+        SekolahList.add(new Sekolah("SMA Negeri 1 Sleman","Fadmiyati, S.Pd. M.Pd.","Jl. Magelang Km.14 Medari, Jetis, Caturharjo, Sleman, Sleman, DIY"));
+        SekolahList.add(new Sekolah("SMA Negeri 1 Wonosari","Muh Taufiq Salyono, S.Pd., M.Pd.Si.","Jl. Brigjen Katamso No.04, Trimulyo I, Kepek, Wonosari, Gunung Kidul, DIY"));
+        SekolahList.add(new Sekolah("SMA Negeri 1 Depok","Usep Kasman","Jl.Babarsari, Kel. Caturtunggal, Kec. Depok, Kab. Sleman, Tambak Bayan, Caturtunggal, Sleman, Sleman, DIY"));
+        SekolahList.add(new Sekolah("SMA Kolese De Britto Depok","FX. Catur Supatmono, S.Pd., M.Pd.","Demangan Baru, Jl. Laksda Adisucipto No.161, Demangan Baru, Caturtunggal, Depok, Sleman, DIY"));
+        SekolahList.add(new Sekolah("SMAN 1 Surakarta","Yusmar Setyobudi","Jl. Monginsidi No.40, Gilingan, Banjarsari, Surakarta, Jawa Tengah"));//solo
+        SekolahList.add(new Sekolah("SMAS Regina Pacis Surakarta","Rosalia Widiastuti, M.Pd","Jl. Adi Sucipto No.45, Kerten, Laweyan, Surakarta, Jawa Tengah"));
+        SekolahList.add(new Sekolah("SMAS Pangudi Luhur Van Lith","Br. Agustinus Giwal Santoso, FIC, M.M","Jl. Kartini No.1, Balemulyo, Muntilan, Muntilan, Magelang, Jawa Tengah"));//magelang
+        SekolahList.add(new Sekolah("SMAS Taruna Nusantara","Mayjen TNI Purn Tono Suratman, S.Ip.","Noyotitan, Banyurojo, Mertoyudan, Magelang, Jawa Tengah"));
+        SekolahList.add(new Sekolah("SMAS IT Ibnu Abbas","Kelik Wardiyono","Jl. Klaten - Solo KM.4, Cantelan, Belang Wetan, Klaten Utara, Klaten, Jawa Tengah"));//klaten
 
         //deklarasi object peserta
         ArrayList<Peserta> PesertaList = new ArrayList<>();
