@@ -35,6 +35,7 @@ public class Stand extends Kamera implements QR{
     }
 
     //interface class QR
+    @Override
     public void buatQR() {
         System.out.println("Peserta Stand ADEE Universitas membuat QR");
     }

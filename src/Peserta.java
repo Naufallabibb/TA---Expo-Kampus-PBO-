@@ -28,6 +28,7 @@ public class Peserta extends Kamera implements QR{
     }
 
     //interface class QR
+    @Override
     public void buatQR() {
         System.out.println("Peserta ADEE membuat QR");
     }
