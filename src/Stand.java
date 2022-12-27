@@ -1,4 +1,4 @@
-public class Stand implements QR{
+public class Stand extends Kamera implements QR{
     private String NomorStand;
     private String BiayaStand;
     private String NamaStand;
