@@ -1,18 +1,17 @@
-public class Stand{
+public class Stand implements QR{
     private String NomorStand;
     private String BiayaStand;
     private String NamaStand;
     private String UnivStand;
     private String Jalur;
-    private String Profil;
+//    private String Profil; delete fitur
 
-    public Stand(String nomorStand, String biayaStand, String namaStand, String univStand, String jalur, String profil) {
+    public Stand(String nomorStand, String biayaStand, String namaStand, String univStand, String jalur) {
         NomorStand = nomorStand;
         BiayaStand = biayaStand;
         NamaStand = namaStand;
         UnivStand = univStand;
         Jalur = jalur;
-        Profil = profil;
     }
 
     public String getNomorStand() {
@@ -35,7 +34,19 @@ public class Stand{
         return Jalur;
     }
 
-    public String getProfil() {
-        return Profil;
+    //interface class QR
+    public void buatQR() {
+        System.out.println("Peserta Stand ADEE Universitas membuat QR");
+    }
+
+    @Override
+    public void TampilkanQR() {
+        System.out.println("Peserta Stand ADEE menampilkan QR yang telah dibuat");
+    }
+
+    //abstract class Kamera
+    @Override
+    public void ScannQRDisini() {
+        System.out.println("Peserta Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code");
     }
 }

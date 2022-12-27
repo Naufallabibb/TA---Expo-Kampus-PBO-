@@ -1,4 +1,4 @@
-public class Panitia implements Pakai{
+public class Panitia extends Kamera implements Pakai,QR {
     private String ketua;
     private String asal;
     private String jumlah;
@@ -21,7 +21,8 @@ public class Panitia implements Pakai{
         return jumlah;
     }
 
-    //getinterface
+
+    //interface class Pakai
     @Override
     public void menggunakan() {
         System.out.println("Gelas dan tangan kanan");
@@ -30,5 +31,22 @@ public class Panitia implements Pakai{
     @Override
     public void haus() {
         System.out.println("Minum air putih");
+    }
+
+    //interface class QR
+    @Override
+    public void buatQR() {
+        System.out.println("Panitia ADEE membuat QR");
+    }
+
+    @Override
+    public void TampilkanQR() {
+        System.out.println("Menampilkan QR yang telah dibuat Panitia");
+    }
+
+    //abstract class Kamera
+    @Override
+    public void ScannQRDisini() {
+        System.out.println("Panitia ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code");
     }
 }
