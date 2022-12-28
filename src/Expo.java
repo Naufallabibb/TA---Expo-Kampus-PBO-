@@ -74,6 +74,7 @@ public class Expo {
 
 
     public void getDataExpo(){
+        //class expo
         System.out.println("Nama kegiatan Expo : " +getNamaExpo());
         System.out.println("Tujuan Expo        : " +getTujuan());
         System.out.println("Tema Expo          : " +getTema());
@@ -81,23 +82,23 @@ public class Expo {
         System.out.println("Lokasi Pelaksanaan : " +getLokasi());
         System.out.println();
 
-        //panitia
+        //class panitia
         System.out.println("Ketua Panitia      : " +getPanitia().getKetua());
-        System.out.print("Keterangan QR      : ");
+        System.out.print("Keterangan QR      : "); //interface
         panitia.buatQR();
-        System.out.print("Tampilkan QR       : ");
+        System.out.print("Tampilkan QR       : "); //interface
         panitia.TampilkanQR();
         System.out.println("Asal Universitas   : "+getPanitia().getAsal());
         System.out.println("Jumlah Panitia     : " +getPanitia().getJumlah());
-        System.out.print("Panitia Haus       : ");
+        System.out.print("Panitia Haus       : "); //interface
         panitia.haus();
-        System.out.print("Minum menggunakan  : ");
+        System.out.print("Minum menggunakan  : "); //interface
         panitia.menggunakan();
-        System.out.print("Kamera Scan Siap   : ");
+        System.out.print("Kamera Scan Siap   : "); //abstract
         panitia.ScannQRDisini();
         System.out.println();
 
-        //clas univ
+        //class univ
         System.out.println("Universitas        : ");
         for(Universitas univ : getUnivList()){
             System.out.println("\t - Nama Universitas\t\t\t: "+univ.getNamaUniv());
@@ -106,16 +107,17 @@ public class Expo {
             System.out.println();
         }
 
+        //class stand
         System.out.println();
         System.out.println("Stand              : ");
         for(Stand stand : getStandList()){
             System.out.println("\t - Nomor Stand\t\t\t\t: "+stand.getNomorStand());
             System.out.println("\t   Biaya Stand\t\t\t\t: "+stand.getBiayaStand());
-            System.out.print("\t   Keterangan QR     \t\t: ");
+            System.out.print("\t   Keterangan QR     \t\t: "); //interface
             stand.buatQR();
-            System.out.print("\t   Tampilkan QR      \t\t: ");
+            System.out.print("\t   Tampilkan QR      \t\t: "); //interface
             stand.TampilkanQR();
-            System.out.print("\t   Kamera Scan Siap  \t\t: ");
+            System.out.print("\t   Kamera Scan Siap  \t\t: "); //abstract
             stand.ScannQRDisini();
             System.out.println("\t   Nama Stand\t\t\t\t: " +stand.getNamaStand());
             System.out.println("\t   Mahasiswa Universitas\t: " +stand.getUnivStand());
@@ -123,6 +125,7 @@ public class Expo {
             System.out.println();
         }
 
+        //class sekolah
         System.out.println();
         System.out.println("Sekolah             : ");
         for(Sekolah sekolah : getSekolahList()){
@@ -132,14 +135,15 @@ public class Expo {
             System.out.println();
         }
 
+        //class peserta
         System.out.println();
         System.out.println("Peserta             : ");
         for(Peserta peserta : getPesertaList()){
-            System.out.print("\t - Keterangan QR     \t\t: ");
+            System.out.print("\t - Keterangan QR     \t\t: "); //interface
             peserta.buatQR();
-            System.out.print("\t   Tampilkan QR      \t\t: ");
+            System.out.print("\t   Tampilkan QR      \t\t: "); //interface
             peserta.TampilkanQR();
-            System.out.print("\t   Kamera Scan Siap  \t\t: ");
+            System.out.print("\t   Kamera Scan Siap  \t\t: "); //abstract
             peserta.ScannQRDisini();
             System.out.println("\t   Nama Peserta\t\t\t\t: "+peserta.getNamaPeserta());
             System.out.println("\t   Asal Sekolah\t\t\t\t: " +peserta.getAsalPeserta());
