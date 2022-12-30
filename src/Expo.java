@@ -84,18 +84,22 @@ public class Expo {
 
         //class panitia
         System.out.println("Ketua Panitia      : " +getPanitia().getKetua());
+        System.out.print("Masukkan Email     : "); //interface
+        panitia.Login();
+        System.out.print("Masukkan Password  : "); //interface
+        panitia.Password();
         System.out.print("Keterangan QR      : "); //interface
         panitia.buatQR();
         System.out.print("Tampilkan QR       : "); //interface
         panitia.TampilkanQR();
+        System.out.print("Kamera Scan Siap   : "); //abstract
+        panitia.ScannQRDisini();
         System.out.println("Asal Universitas   : "+getPanitia().getAsal());
         System.out.println("Jumlah Panitia     : " +getPanitia().getJumlah());
         System.out.print("Panitia Haus       : "); //interface
         panitia.haus();
         System.out.print("Minum menggunakan  : "); //interface
         panitia.menggunakan();
-        System.out.print("Kamera Scan Siap   : "); //abstract
-        panitia.ScannQRDisini();
         System.out.println();
 
         //class univ
@@ -111,14 +115,18 @@ public class Expo {
         System.out.println();
         System.out.println("Stand              : ");
         for(Stand stand : getStandList()){
-            System.out.println("\t - Nomor Stand\t\t\t\t: "+stand.getNomorStand());
-            System.out.println("\t   Biaya Stand\t\t\t\t: "+stand.getBiayaStand());
+            System.out.print("\t - Masukkan Email    \t\t: "); //interface
+            stand.Login();
+            System.out.print("\t   Masukkan Password \t\t: "); //interface
+            stand.Password();
             System.out.print("\t   Keterangan QR     \t\t: "); //interface
             stand.buatQR();
             System.out.print("\t   Tampilkan QR      \t\t: "); //interface
             stand.TampilkanQR();
             System.out.print("\t   Kamera Scan Siap  \t\t: "); //abstract
             stand.ScannQRDisini();
+            System.out.println("\t   Nomor Stand\t\t\t\t: "+stand.getNomorStand());
+            System.out.println("\t   Biaya Stand\t\t\t\t: "+stand.getBiayaStand());
             System.out.println("\t   Nama Stand\t\t\t\t: " +stand.getNamaStand());
             System.out.println("\t   Mahasiswa Universitas\t: " +stand.getUnivStand());
             System.out.println("\t   Jalur yang ditawarkan\t: " +stand.getJalur());
@@ -139,7 +147,11 @@ public class Expo {
         System.out.println();
         System.out.println("Peserta             : ");
         for(Peserta peserta : getPesertaList()){
-            System.out.print("\t - Keterangan QR     \t\t: "); //interface
+            System.out.print("\t - Masukkan Email    \t\t: "); //interface
+            peserta.Login();
+            System.out.print("\t   Masukkan Password \t\t: "); //interface
+            peserta.Password();
+            System.out.print("\t   Keterangan QR     \t\t: "); //interface
             peserta.buatQR();
             System.out.print("\t   Tampilkan QR      \t\t: "); //interface
             peserta.TampilkanQR();

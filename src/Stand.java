@@ -1,4 +1,4 @@
-public class Stand extends Kamera implements QR{
+public class Stand extends Kamera implements QR, Register{
     private String NomorStand;
     private String BiayaStand;
     private String NamaStand;
@@ -37,17 +37,29 @@ public class Stand extends Kamera implements QR{
     //interface class QR
     @Override
     public void buatQR() {
-        System.out.println("Peserta Stand ADEE Universitas membuat QR");
+        System.out.println("Stand ADEE Universitas membuat QR");
     }
 
     @Override
     public void TampilkanQR() {
-        System.out.println("Peserta Stand ADEE menampilkan QR yang telah dibuat");
+        System.out.println("Stand ADEE menampilkan QR yang telah dibuat");
     }
 
     //abstract class Kamera
     @Override
     public void ScannQRDisini() {
-        System.out.println("Peserta Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code");
+        System.out.println("Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code");
+    }
+
+    //interface register
+    @Override
+    public void Login() {
+        System.out.println("Memasukkan E-mail Stand");
+    }
+
+    @Override
+    public void Password() {
+        System.out.println("Memasukkan Password Stand");
+
     }
 }

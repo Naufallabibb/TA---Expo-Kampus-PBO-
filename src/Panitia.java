@@ -1,4 +1,4 @@
-public class Panitia extends Kamera implements Pakai,QR {
+public class Panitia extends Kamera implements Pakai, QR, Register {
     private String ketua;
     private String asal;
     private String jumlah;
@@ -48,5 +48,16 @@ public class Panitia extends Kamera implements Pakai,QR {
     @Override
     public void ScannQRDisini() {
         System.out.println("Panitia ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code");
+    }
+
+    //interface register
+    @Override
+    public void Login() {
+        System.out.println("Memasukkan E-mail Panitia");
+    }
+
+    @Override
+    public void Password() {
+        System.out.println("Memasukkan Password Panitia");
     }
 }

@@ -1,4 +1,4 @@
-public class Peserta extends Kamera implements QR{
+public class Peserta extends Kamera implements QR, Register{
     private String NamaPeserta;
     private String AsalPeserta;
     private String Kelas;
@@ -42,5 +42,17 @@ public class Peserta extends Kamera implements QR{
     @Override
     public void ScannQRDisini() {
         System.out.println("Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code");
+    }
+
+    //interface register
+    @Override
+    public void Login() {
+        System.out.println("Memasukkan E-mail Peserta");
+    }
+
+    @Override
+    public void Password() {
+        System.out.println("Memasukkan Password Peserta");
+
     }
 }
