@@ -1,6 +1,6 @@
 public interface QR {
 
-    void buatQR();
-    void TampilkanQR();
+    String buatQR();
+    String TampilkanQR();
 
 }

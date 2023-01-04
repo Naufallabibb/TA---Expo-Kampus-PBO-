@@ -1,7 +1,13 @@
 import java.util.ArrayList;
+import java.util.Scanner;
+
+import static java.lang.System.exit;
 
 public class Main {
     public static void main(String[] args) {
+
+        int pilih;
+        Scanner input = new Scanner(System.in);
 
         //deklarasi object expo
         Expo expo = new Expo("Ahmad Dahlan Education Expo (ADEE)","Memamerkan dan Memperkenalkan Universitas Impian", "Search Your Chance And Choose The Next Step","20 - 21 Desember 2022","Lapangan Kampus 4 Universitas Ahmad Dahlan");
@@ -100,6 +106,56 @@ public class Main {
         PesertaList.add(new Peserta("Bonita Lahitani","SMAS IT Ibnu Abbas","11","Akuntansi"));
 
         expo.AddBagianExpo(UnivList, StandList, SekolahList, PesertaList, panitia);
-        expo.getDataExpo();
+
+        do {
+            System.out.println("+=================================+");
+            System.out.println("||      PROGRAM EXPO KAMPUS      ||");
+            System.out.println("+=================================+");
+            System.out.println("|| [1] EXPO                      ||");
+            System.out.println("|| [2] PANITIA                   ||");
+            System.out.println("|| [3] UNIVERSITAS               ||");
+            System.out.println("|| [4] STAND                     ||");
+            System.out.println("|| [5] PESERTA                   ||");
+            System.out.println("|| [6] SEKOLAH                   ||");
+            System.out.println("|| [7] SEMUA DATA                ||");
+            System.out.println("|| [8] EXIT                      ||");
+            System.out.println("+=================================+");
+            System.out.print("Masukkan Pilihan Menu Anda : ");
+            pilih = input.nextInt();
+            if (pilih == 1) {
+                expo.getDataExpo();
+            }
+            else if (pilih == 2) {
+                expo.getDataPanitia();
+            }
+            else if (pilih == 3) {
+                expo.getDataUniversitas();
+            }
+            else if (pilih == 4) {
+                expo.getDataStand();
+            }
+            else if (pilih == 5) {
+                expo.getDataPeserta();
+            }
+            else if (pilih == 6) {
+                expo.getDataSekolah();
+            }
+            else if (pilih == 7) {
+                expo.getDataExpo();
+                expo.getDataPanitia();
+                expo.getDataUniversitas();
+                expo.getDataStand();
+                expo.getDataPeserta();
+                expo.getDataSekolah();
+            }
+            else if (pilih == 8) {
+                System.out.println("Sampai Jumpa!");
+                exit(1);
+            }
+            else {
+                System.out.println("Masukkan Pilihan Dengan Benar!");
+                System.out.println();
+            }
+        }while (true);
     }
 }

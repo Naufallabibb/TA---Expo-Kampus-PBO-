@@ -1,5 +1,5 @@
 public interface Pakai {
 
-    void menggunakan();
-    void haus();
+    String menggunakan();
+    String haus();
 }

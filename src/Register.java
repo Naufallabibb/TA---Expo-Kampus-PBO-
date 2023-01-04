@@ -1,7 +1,7 @@
 public interface Register {
 
-    void Login();
-    void Password();
+    String Login();
+    String Password();
 }
 
 

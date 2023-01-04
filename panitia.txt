@@ -1,0 +1,11 @@
+Data panitia : 
+Ketua Panitia      : Muhammad Naufal Labib Ramadhan
+Masukkan Email     : Memasukkan E-mail Panitia
+Masukkan Password  : Memasukkan Password Panitia
+Keterangan QR      : Panitia ADEE membuat QR
+Tampilkan QR       : Menampilkan QR yang telah dibuat Panitia
+Kamera Scan Siap   : Panitia ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+Asal Universitas   : Universitas Ahmad Dahlan
+Jumlah Panitia     : 68
+Panitia Haus       : Minum air putih
+Minum menggunakan  : Gelas dan tangan kanan

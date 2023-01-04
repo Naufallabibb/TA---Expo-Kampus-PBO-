@@ -1,0 +1,61 @@
+Data Universitas : 
+	 - Nama Universitas			: Universitas Ahmad Dahlan
+	   Nama Rektor				: Dr. Muchlas Arkanuddin, M.T.
+	   Alamat Universitas		: Jl. Jend. Ahmad Yani, Banguntapan, Bantul, DIY
+
+	 - Nama Universitas			: Universitas Muhammadiyah Surakarta
+	   Nama Rektor				: Prof. Dr. Sofyan Anif, M.Si.
+	   Alamat Universitas		: Jl. A. Yani, Mendungan, Pabelan, Kartasura, Sukoharjo, Jawa Tengah
+
+	 - Nama Universitas			: Universitas Muhammadiyah Malang
+	   Nama Rektor				: Dr. Fauzan, M.Pd.
+	   Alamat Universitas		: Jl. Bandung No.1, Penanggungan, Klojen, Malang, Jawa Timur
+
+	 - Nama Universitas			: Universitas Muhammadiyah Yogyakarta
+	   Nama Rektor				: Dr. Ir. Gunawan Budiyanto, MP., IPM.
+	   Alamat Universitas		: Jl. Brawijaya, Geblagan, Tamantirto, Kasihan, Bantul, DIY
+
+	 - Nama Universitas			: Universitas Gadjah Mada
+	   Nama Rektor				: Prof. Dr. Supriyadi, M.Sc.
+	   Alamat Universitas		: Jl. Bulaksumur, Caturtunggal, Depok, Sleman, DIY
+
+	 - Nama Universitas			: Universitas Indonesia
+	   Nama Rektor				: Prof. Ari Kuncoro, S.E., M.A., Ph.D
+	   Alamat Universitas		: Jl. Margonda Raya, Pondok Cina, Kota Depok, Jawa Barat
+
+	 - Nama Universitas			: Universitas Negeri Surakarta Sebelas Maret
+	   Nama Rektor				: Prof Dr rer nat Sajidan, MSi
+	   Alamat Universitas		: Jl. Ir. Sutami No.36, Kentingan, Jebres, Surakarta, Jawa Tengah 
+
+	 - Nama Universitas			: Universitas Brawijaya
+	   Nama Rektor				: Prof. Widodo, S.Si., M.Si., Ph.D.Med.Sc.
+	   Alamat Universitas		: Jl. Veteran, Ketawanggede, Lowokwaru, Malang, Jawa Timur
+
+	 - Nama Universitas			: Universitas Negeri Malang
+	   Nama Rektor				: Prof. Dr. Hariyono, M.Pd.
+	   Alamat Universitas		: Jl. Semarang No.5, Sumbersari, Lowokwaru, Malang, Jawa Timur
+
+	 - Nama Universitas			: UIN Sunan Kalijaga
+	   Nama Rektor				: Prof. Phil Al Makin
+	   Alamat Universitas		: Jl. Laksda Adisucipto, Papringan, Caturtunggal, Depok, Sleman, DIY
+
+	 - Nama Universitas			: UPNV Yogyakarta
+	   Nama Rektor				: Prof. Dr. Mohamad Irhas Effendi, M.Si
+	   Alamat Universitas		: Jl. SWK Jl. Ring Road Utara No.104, Ngropoh, Condongcatur, Depok, Sleman, DIY
+
+	 - Nama Universitas			: Telkom University
+	   Nama Rektor				: Prof. Dr. Adiwijaya
+	   Alamat Universitas		: Jl. Telekomunikasi. 1, Terusan Buahbatu - Bojongsoang, Telkom University, Sukapura, Dayeuhkolot, Bandung, Jawa Barat
+
+	 - Nama Universitas			: Institut Teknologi Bandung
+	   Nama Rektor				: Prof. Reini Wirahadikusumah, Ph.D.
+	   Alamat Universitas		: Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat
+
+	 - Nama Universitas			: Institut Seni Indonesia Surakarta
+	   Nama Rektor				: Dr I Nyoman Sukerna, S.Kar., M.Hum.
+	   Alamat Universitas		: Jl. Ki Hadjar Dewantara 19, Kentingan, Jebres, Surakarta, Jawa Tengah
+
+	 - Nama Universitas			: Institut Seni Indonesia Yogyakarta
+	   Nama Rektor				: Prof. Dr. M. Agus Burhan, M.Hum
+	   Alamat Universitas		: Jl. Parangtritis No.KM.6, RW.5, Glondong, Panggungharjo, Sewon, Bantul, DIY 
+

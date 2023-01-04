@@ -24,40 +24,40 @@ public class Panitia extends Kamera implements Pakai, QR, Register {
 
     //interface class Pakai
     @Override
-    public void menggunakan() {
-        System.out.println("Gelas dan tangan kanan");
+    public String menggunakan() {
+        return ("Gelas dan tangan kanan");
     }
 
     @Override
-    public void haus() {
-        System.out.println("Minum air putih");
+    public String haus() {
+        return ("Minum air putih");
     }
 
     //interface class QR
     @Override
-    public void buatQR() {
-        System.out.println("Panitia ADEE membuat QR");
+    public String buatQR() {
+        return ("Panitia ADEE membuat QR");
     }
 
     @Override
-    public void TampilkanQR() {
-        System.out.println("Menampilkan QR yang telah dibuat Panitia");
+    public String TampilkanQR() {
+        return ("Menampilkan QR yang telah dibuat Panitia");
     }
 
     //abstract class Kamera
     @Override
-    public void ScannQRDisini() {
-        System.out.println("Panitia ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code");
+    public String ScannQRDisini() {
+        return ("Panitia ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code");
     }
 
     //interface register
     @Override
-    public void Login() {
-        System.out.println("Memasukkan E-mail Panitia");
+    public String Login() {
+        return ("Memasukkan E-mail Panitia");
     }
 
     @Override
-    public void Password() {
-        System.out.println("Memasukkan Password Panitia");
+    public String Password() {
+        return ("Memasukkan Password Panitia");
     }
 }

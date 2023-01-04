@@ -1,0 +1,321 @@
+Data Peserta : 
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Lukman Shebubakar
+	   Asal Sekolah				: SMA Negeri 1 Teladan Yogyakarta
+	   Kelas					: 12
+	   Jurusan Impian			: Kedokteran
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Nur Halimah
+	   Asal Sekolah				: SMA Negeri 1 Teladan Yogyakarta
+	   Kelas					: 11
+	   Jurusan Impian			: Farmasi
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Arini Urbaningrum
+	   Asal Sekolah				: SMA Negeri 3 Yogyakarta
+	   Kelas					: 12
+	   Jurusan Impian			: Keperawatan
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Divya Jhiehan
+	   Asal Sekolah				: SMA Negeri 3 Yogyakarta
+	   Kelas					: 12
+	   Jurusan Impian			: Teknik Sipil
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Reymond Chin
+	   Asal Sekolah				: SMA Negeri 5 Yogyakarta
+	   Kelas					: 10
+	   Jurusan Impian			: Teknik Informatika
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Rayyana Aurora Nur Asysyifa
+	   Asal Sekolah				: SMA Negeri 5 Yogyakarta
+	   Kelas					: 11
+	   Jurusan Impian			: Gizi
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Hazza Adika Syahira
+	   Asal Sekolah				: SMA Negeri 6 Yogyakarta
+	   Kelas					: 12
+	   Jurusan Impian			: Kedokteran Gigi
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Alva 
+	   Asal Sekolah				: SMA Negeri 6 Yogyakarta
+	   Kelas					: 12
+	   Jurusan Impian			: Kedokteran Hewan
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Abdun Nafi
+	   Asal Sekolah				: SMA Negeri 7 Yogyakarta
+	   Kelas					: 11
+	   Jurusan Impian			: Teknik Mesin
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Regita Cahyaning Astuti
+	   Asal Sekolah				: SMA Negeri 7 Yogyakarta
+	   Kelas					: 10
+	   Jurusan Impian			: Arsitektur
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Timothy Ronald
+	   Asal Sekolah				: SMA Negeri 8 Yogyakarta
+	   Kelas					: 10
+	   Jurusan Impian			: Teknik Elektro
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Dennis
+	   Asal Sekolah				: SMA Negeri 8 Yogyakarta
+	   Kelas					: 11
+	   Jurusan Impian			: Teknologi Pangan
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Gabriella Gracia
+	   Asal Sekolah				: MAN 1 Yogyakarta
+	   Kelas					: 12
+	   Jurusan Impian			: Sastra Inggris
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Daralianty
+	   Asal Sekolah				: MAN 1 Yogyakarta
+	   Kelas					: 11
+	   Jurusan Impian			: Desain Komunikasi Visual
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Maulana Imanuel
+	   Asal Sekolah				: SMA Negeri 1 Sleman
+	   Kelas					: 10
+	   Jurusan Impian			: Fotografi
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Angeline
+	   Asal Sekolah				: SMA Negeri 1 Sleman
+	   Kelas					: 12
+	   Jurusan Impian			: Desain Interior
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Diniyah Nurmala
+	   Asal Sekolah				: SMA Negeri 1 Wonosari
+	   Kelas					: 12
+	   Jurusan Impian			: Desain Grafis
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Felicia Putri Tjiasaka
+	   Asal Sekolah				: SMA Negeri 1 Wonosari
+	   Kelas					: 12
+	   Jurusan Impian			: Manajemen
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Tania Dewi Nur Azmi
+	   Asal Sekolah				: SMA Negeri 1 Depok
+	   Kelas					: 11
+	   Jurusan Impian			: Ilmu Komunikasi
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Azizi Asadel
+	   Asal Sekolah				: SMA Negeri 1 Depok
+	   Kelas					: 11
+	   Jurusan Impian			: Ilmu Ekonomi
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Nurrotul Ilma
+	   Asal Sekolah				: SMA Kolese De Britto Depo
+	   Kelas					: 10
+	   Jurusan Impian			: Aktuaria
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Khofifah Yulia
+	   Asal Sekolah				: SMA Kolese De Britto Depo
+	   Kelas					: 12
+	   Jurusan Impian			: Teknik Industri
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Aqsarashi 
+	   Asal Sekolah				: SMAN 1 Surakarta
+	   Kelas					: 12
+	   Jurusan Impian			: Teknik Lingkungan
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Gilbert Franciscus
+	   Asal Sekolah				: SMAN 1 Surakarta
+	   Kelas					: 11
+	   Jurusan Impian			: Teknik Biomedis
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Gabriel
+	   Asal Sekolah				: SMAS Regina Pacis Surakarta
+	   Kelas					: 11
+	   Jurusan Impian			: Teknik Kimia
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Khanza Naila
+	   Asal Sekolah				: SMAS Regina Pacis Surakarta
+	   Kelas					: 10
+	   Jurusan Impian			: Kesehatan Masyarakat
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Shidiq
+	   Asal Sekolah				: SMAS Pangudi Luhur Van Lith
+	   Kelas					: 11
+	   Jurusan Impian			: Geologi
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Catherin
+	   Asal Sekolah				: SMAS Pangudi Luhur Van Lith
+	   Kelas					: 12
+	   Jurusan Impian			: Ilmu Politik
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Miracle Sitompul
+	   Asal Sekolah				: SMAS Taruna Nusantara
+	   Kelas					: 12
+	   Jurusan Impian			: Hukum
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Maria Clarin
+	   Asal Sekolah				: SMAS Taruna Nusantara
+	   Kelas					: 12
+	   Jurusan Impian			: Psikologi
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Nick Smithy
+	   Asal Sekolah				: SMAS IT Ibnu Abbas
+	   Kelas					: 12
+	   Jurusan Impian			: Hubungan Internasional
+
+	 - Masukkan Email    		: Memasukkan E-mail Peserta
+	   Masukkan Password 		: Memasukkan Password Peserta
+	   Keterangan QR     		: Peserta ADEE membuat QR
+	   Tampilkan QR      		: Peserta ADEE menampilkan QR Code yang telah dibuat
+	   Kamera Scan Siap  		: Peserta ADEE mengarahkan Layar ke Kamera QR Untuk Scan QR Code
+	   Nama Peserta				: Bonita Lahitani
+	   Asal Sekolah				: SMAS IT Ibnu Abbas
+	   Kelas					: 11
+	   Jurusan Impian			: Akuntansi
+

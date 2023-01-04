@@ -1,0 +1,65 @@
+Data Sekolah : 
+	 - Nama Sekolah				: SMA Negeri 1 Teladan Yogyakarta
+	   Nama Kepala Sekolah		: Jumadi
+	   Alamat Sekolah			: Jl. HOS Cokroaminoto No.10, Pakuncen, Wirobrajan, Yogyakarta, DIY
+
+	 - Nama Sekolah				: SMA Negeri 3 Yogyakarta
+	   Nama Kepala Sekolah		: Kusworo, S.Pd., M.Hum
+	   Alamat Sekolah			: Jl. Yos Sudarso No.7, RT.05/RW.03, Kotabaru, Gondokusuman, Yogyakarta, DIY
+
+	 - Nama Sekolah				: SMA Negeri 5 Yogyakarta
+	   Nama Kepala Sekolah		: Hj.Fadiyah Suryani, M.Pd.Si
+	   Alamat Sekolah			: Jl. Nyi Pembayun No.39, Prenggan, Kotagede, Yogyakarta, DIY
+
+	 - Nama Sekolah				: SMA Negeri 6 Yogyakarta
+	   Nama Kepala Sekolah		: Siti Hajarwati, M.Pd.Si.
+	   Alamat Sekolah			: Jl. C. Simanjuntak No.2, Terban, Gondokusuman, Yogyakarta, DIY
+
+	 - Nama Sekolah				: SMA Negeri 7 Yogyakarta
+	   Nama Kepala Sekolah		: Tutik Sunarti, S.Pd., M.Pd.
+	   Alamat Sekolah			: Jl. MT. Haryono No.47, Suryodiningratan, Mantrijeron, Yogyakarta, DIY
+
+	 - Nama Sekolah				: SMA Negeri 8 Yogyakarta
+	   Nama Kepala Sekolah		: Sri Suyatmi, S. Pd.
+	   Alamat Sekolah			: Jl. Sidobali No.1, Muja Muju, Umbulharjo, Yogyakarta, DIY
+
+	 - Nama Sekolah				: MAN 1 Yogyakarta
+	   Nama Kepala Sekolah		: Drs. H. Wiranto Prasetyahadi, M.Pd
+	   Alamat Sekolah			: Jl. C. Simanjuntak No.60, Terban, Gondokusuman, Yogyakarta, DIY
+
+	 - Nama Sekolah				: SMA Negeri 1 Sleman
+	   Nama Kepala Sekolah		: Fadmiyati, S.Pd. M.Pd.
+	   Alamat Sekolah			: Jl. Magelang Km.14 Medari, Jetis, Caturharjo, Sleman, Sleman, DIY
+
+	 - Nama Sekolah				: SMA Negeri 1 Wonosari
+	   Nama Kepala Sekolah		: Muh Taufiq Salyono, S.Pd., M.Pd.Si.
+	   Alamat Sekolah			: Jl. Brigjen Katamso No.04, Trimulyo I, Kepek, Wonosari, Gunung Kidul, DIY
+
+	 - Nama Sekolah				: SMA Negeri 1 Depok
+	   Nama Kepala Sekolah		: Usep Kasman
+	   Alamat Sekolah			: Jl.Babarsari, Kel. Caturtunggal, Kec. Depok, Kab. Sleman, Tambak Bayan, Caturtunggal, Sleman, Sleman, DIY
+
+	 - Nama Sekolah				: SMA Kolese De Britto Depok
+	   Nama Kepala Sekolah		: FX. Catur Supatmono, S.Pd., M.Pd.
+	   Alamat Sekolah			: Demangan Baru, Jl. Laksda Adisucipto No.161, Demangan Baru, Caturtunggal, Depok, Sleman, DIY
+
+	 - Nama Sekolah				: SMAN 1 Surakarta
+	   Nama Kepala Sekolah		: Yusmar Setyobudi
+	   Alamat Sekolah			: Jl. Monginsidi No.40, Gilingan, Banjarsari, Surakarta, Jawa Tengah
+
+	 - Nama Sekolah				: SMAS Regina Pacis Surakarta
+	   Nama Kepala Sekolah		: Rosalia Widiastuti, M.Pd
+	   Alamat Sekolah			: Jl. Adi Sucipto No.45, Kerten, Laweyan, Surakarta, Jawa Tengah
+
+	 - Nama Sekolah				: SMAS Pangudi Luhur Van Lith
+	   Nama Kepala Sekolah		: Br. Agustinus Giwal Santoso, FIC, M.M
+	   Alamat Sekolah			: Jl. Kartini No.1, Balemulyo, Muntilan, Muntilan, Magelang, Jawa Tengah
+
+	 - Nama Sekolah				: SMAS Taruna Nusantara
+	   Nama Kepala Sekolah		: Mayjen TNI Purn Tono Suratman, S.Ip.
+	   Alamat Sekolah			: Noyotitan, Banyurojo, Mertoyudan, Magelang, Jawa Tengah
+
+	 - Nama Sekolah				: SMAS IT Ibnu Abbas
+	   Nama Kepala Sekolah		: Kelik Wardiyono
+	   Alamat Sekolah			: Jl. Klaten - Solo KM.4, Cantelan, Belang Wetan, Klaten Utara, Klaten, Jawa Tengah
+

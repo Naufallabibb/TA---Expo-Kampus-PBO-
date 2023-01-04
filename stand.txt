@@ -1,0 +1,166 @@
+Data Stand : 
+	 - Masukkan Email    		: Memasukkan E-mail Stand
+	   Masukkan Password 		: Memasukkan Password Stand
+	   Keterangan QR     		: Stand ADEE Universitas membuat QR
+	   Tampilkan QR      		: Stand ADEE menampilkan QR yang telah dibuat
+	   Kamera Scan Siap  		: Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+	   Nomor Stand				: 01
+	   Biaya Stand				: Gratis
+	   Nama Stand				: Moral and Intellectual Integrity
+	   Mahasiswa Universitas	: Universitas Ahmad Dahlan
+	   Jalur yang ditawarkan	: PMDK, PSB, CBT, Beasiswa, Nilai UTBK, IUP
+
+	 - Masukkan Email    		: Memasukkan E-mail Stand
+	   Masukkan Password 		: Memasukkan Password Stand
+	   Keterangan QR     		: Stand ADEE Universitas membuat QR
+	   Tampilkan QR      		: Stand ADEE menampilkan QR yang telah dibuat
+	   Kamera Scan Siap  		: Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+	   Nomor Stand				: 02
+	   Biaya Stand				: Rp50.000
+	   Nama Stand				: Mencerahkan Unggul Mendunia
+	   Mahasiswa Universitas	: Universitas Muhammadiyah Surakarta
+	   Jalur yang ditawarkan	: CBT, E-Prestasi, Beasiswa, IUP
+
+	 - Masukkan Email    		: Memasukkan E-mail Stand
+	   Masukkan Password 		: Memasukkan Password Stand
+	   Keterangan QR     		: Stand ADEE Universitas membuat QR
+	   Tampilkan QR      		: Stand ADEE menampilkan QR yang telah dibuat
+	   Kamera Scan Siap  		: Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+	   Nomor Stand				: 03
+	   Biaya Stand				: Rp50.000
+	   Nama Stand				: Dari Muhammadiyah Untuk Bangsa
+	   Mahasiswa Universitas	: Universitas Muhammadiyah Malang
+	   Jalur yang ditawarkan	: Beasiswa, Rapot & TPA, Vokasi, Nilai UTBK, IUP
+
+	 - Masukkan Email    		: Memasukkan E-mail Stand
+	   Masukkan Password 		: Memasukkan Password Stand
+	   Keterangan QR     		: Stand ADEE Universitas membuat QR
+	   Tampilkan QR      		: Stand ADEE menampilkan QR yang telah dibuat
+	   Kamera Scan Siap  		: Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+	   Nomor Stand				: 04
+	   Biaya Stand				: Rp50.000
+	   Nama Stand				: Muda Mendunia
+	   Mahasiswa Universitas	: Universitas Muhammadiyah Yogyakarta
+	   Jalur yang ditawarkan	: Prestasi, CBT, SKL, UTBK, SBMPTMu, Jogjaversitas, International Admission
+
+	 - Masukkan Email    		: Memasukkan E-mail Stand
+	   Masukkan Password 		: Memasukkan Password Stand
+	   Keterangan QR     		: Stand ADEE Universitas membuat QR
+	   Tampilkan QR      		: Stand ADEE menampilkan QR yang telah dibuat
+	   Kamera Scan Siap  		: Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+	   Nomor Stand				: 05
+	   Biaya Stand				: Rp50.000
+	   Nama Stand				: Mengakar Kuat Menjulang Tinggi
+	   Mahasiswa Universitas	: Universitas Gadjah Mada
+	   Jalur yang ditawarkan	: SNMPTN, SBMPTN, UTUL UGM, Prestasi, IUP
+
+	 - Masukkan Email    		: Memasukkan E-mail Stand
+	   Masukkan Password 		: Memasukkan Password Stand
+	   Keterangan QR     		: Stand ADEE Universitas membuat QR
+	   Tampilkan QR      		: Stand ADEE menampilkan QR yang telah dibuat
+	   Kamera Scan Siap  		: Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+	   Nomor Stand				: 06
+	   Biaya Stand				: Rp50.000
+	   Nama Stand				: Veritas, Probitas, Iustitia
+	   Mahasiswa Universitas	: Universitas Indonesia
+	   Jalur yang ditawarkan	: SNMPTN, SBMPTN, SIMAK UI, PPKB, Prestasi, IUP
+
+	 - Masukkan Email    		: Memasukkan E-mail Stand
+	   Masukkan Password 		: Memasukkan Password Stand
+	   Keterangan QR     		: Stand ADEE Universitas membuat QR
+	   Tampilkan QR      		: Stand ADEE menampilkan QR yang telah dibuat
+	   Kamera Scan Siap  		: Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+	   Nomor Stand				: 07
+	   Biaya Stand				: Rp50.000
+	   Nama Stand				: Mangesthi Luhur Ambangun Nagara
+	   Mahasiswa Universitas	: Universitas Negeri Surakarta Sebelas Maret
+	   Jalur yang ditawarkan	: SNMPTN, SBMPTN, UTUL UNS, Prestasi, Rapot, IUP
+
+	 - Masukkan Email    		: Memasukkan E-mail Stand
+	   Masukkan Password 		: Memasukkan Password Stand
+	   Keterangan QR     		: Stand ADEE Universitas membuat QR
+	   Tampilkan QR      		: Stand ADEE menampilkan QR yang telah dibuat
+	   Kamera Scan Siap  		: Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+	   Nomor Stand				: 08
+	   Biaya Stand				: Rp50.000
+	   Nama Stand				: Building Up Noble Future
+	   Mahasiswa Universitas	: Universitas Brawijaya
+	   Jalur yang ditawarkan	: SNMPTN, SBMPTN, Prestasi, Rapot, Selma UB, IUP
+
+	 - Masukkan Email    		: Memasukkan E-mail Stand
+	   Masukkan Password 		: Memasukkan Password Stand
+	   Keterangan QR     		: Stand ADEE Universitas membuat QR
+	   Tampilkan QR      		: Stand ADEE menampilkan QR yang telah dibuat
+	   Kamera Scan Siap  		: Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+	   Nomor Stand				: 09
+	   Biaya Stand				: Rp50.000
+	   Nama Stand				: When Learning is Enjoyment
+	   Mahasiswa Universitas	: Universitas Negeri Malang
+	   Jalur yang ditawarkan	: SNMPTN, SBMPTN, Mandiri, IUP
+
+	 - Masukkan Email    		: Memasukkan E-mail Stand
+	   Masukkan Password 		: Memasukkan Password Stand
+	   Keterangan QR     		: Stand ADEE Universitas membuat QR
+	   Tampilkan QR      		: Stand ADEE menampilkan QR yang telah dibuat
+	   Kamera Scan Siap  		: Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+	   Nomor Stand				: 10
+	   Biaya Stand				: Rp50.000
+	   Nama Stand				: UIN Suka Untuk Bangsa, UIN Suka Mendunia
+	   Mahasiswa Universitas	: UIN Sunan Kalijaga
+	   Jalur yang ditawarkan	: SNMPTN, SBMPTN, IUP, SPAN-PTKIN, UM-PTKIN, Mandiri
+
+	 - Masukkan Email    		: Memasukkan E-mail Stand
+	   Masukkan Password 		: Memasukkan Password Stand
+	   Keterangan QR     		: Stand ADEE Universitas membuat QR
+	   Tampilkan QR      		: Stand ADEE menampilkan QR yang telah dibuat
+	   Kamera Scan Siap  		: Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+	   Nomor Stand				: 11
+	   Biaya Stand				: Rp50.000
+	   Nama Stand				: Disiplin, kejuangan, dan kreativitas
+	   Mahasiswa Universitas	: UPNV Yogyakarta
+	   Jalur yang ditawarkan	: SNMPTN, SBMPTN, Prestasi, IUP, Nilai UTBK, Bela Negara
+
+	 - Masukkan Email    		: Memasukkan E-mail Stand
+	   Masukkan Password 		: Memasukkan Password Stand
+	   Keterangan QR     		: Stand ADEE Universitas membuat QR
+	   Tampilkan QR      		: Stand ADEE menampilkan QR yang telah dibuat
+	   Kamera Scan Siap  		: Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+	   Nomor Stand				: 12
+	   Biaya Stand				: Rp50.000
+	   Nama Stand				: Partum in Futuro
+	   Mahasiswa Universitas	: Telkom University
+	   Jalur yang ditawarkan	: UTG, Rapot, Nilai UTBK, USM, IUP, PJJ, Vokasi, IUP, Beasiswa
+
+	 - Masukkan Email    		: Memasukkan E-mail Stand
+	   Masukkan Password 		: Memasukkan Password Stand
+	   Keterangan QR     		: Stand ADEE Universitas membuat QR
+	   Tampilkan QR      		: Stand ADEE menampilkan QR yang telah dibuat
+	   Kamera Scan Siap  		: Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+	   Nomor Stand				: 13
+	   Biaya Stand				: Rp50.000
+	   Nama Stand				: In Harmonia Progressio
+	   Mahasiswa Universitas	: Institut Teknologi Bandung
+	   Jalur yang ditawarkan	: SNMPTN, SBMPTN, SM-ITB, IUP
+
+	 - Masukkan Email    		: Memasukkan E-mail Stand
+	   Masukkan Password 		: Memasukkan Password Stand
+	   Keterangan QR     		: Stand ADEE Universitas membuat QR
+	   Tampilkan QR      		: Stand ADEE menampilkan QR yang telah dibuat
+	   Kamera Scan Siap  		: Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+	   Nomor Stand				: 14
+	   Biaya Stand				: Rp50.000
+	   Nama Stand				: Mulat sarira angrasa wani
+	   Mahasiswa Universitas	: Institut Seni Indonesia Surakarta
+	   Jalur yang ditawarkan	: SNMPTN, SBMPTN, IUP, Mandiri
+
+	 - Masukkan Email    		: Memasukkan E-mail Stand
+	   Masukkan Password 		: Memasukkan Password Stand
+	   Keterangan QR     		: Stand ADEE Universitas membuat QR
+	   Tampilkan QR      		: Stand ADEE menampilkan QR yang telah dibuat
+	   Kamera Scan Siap  		: Stand ADEE mengarahkan Layar ke Kamera Untuk Scan QR Code
+	   Nomor Stand				: 15
+	   Biaya Stand				: Rp50.000
+	   Nama Stand				: Seni adalah kita
+	   Mahasiswa Universitas	: Institut Seni Indonesia Yogyakarta
+	   Jalur yang ditawarkan	: SNMPTN, SBMPTN, Mandiri, IUP
+
